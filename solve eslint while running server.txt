@@ -1,3 +1,0 @@
-    // eslint-disable-next-line react-hooks/exhaustive-depsC:\Users\TUSHAR\Desktop\epic-notSoGroupProject\frontend\src\components\Charity\AllDrives.jsx
-line 19
-    // eslint-disable-next-line react-hooks/exhaustive-deps
